@@ -1,20 +1,39 @@
-Project Title
+PROJECT TITLE
+
 Movie Website - Submitted by Alan Van
 
-Getting Started
+GETTING STARTED
+
 These instructions will guide you on how to create your own movie website
 
-Prerequisites
+PREREQUISITES
+
 User need to install Python3 on their machine
 
-Steps
-1-Open entertainment_center.py
-2-In entertainment_center.py, create your own movie objects which are instances of class movie (defined in media.py)
-3-List all of your movie objects in a list called movies
-4-Run the code. Your website will be created
 
-Authors
+STEPS
+
+With Terminal:
+
+1-  Clone the directory to your local machine
+2-  Navigate to the directory (cd repository_name)
+3-  Run python entertainment_center.py
+4-  To add your own movie, modify the movie objects and the corresponding 
+    movie list (refer to docstrings)
+
+With IDLE:
+
+1-  Download directory to your local machine
+2-  Navigate to the directory
+3-  Open entertainment_center.py with IDLE
+4-  In the menu bar click on Run -> Run Module or press F5 on your keyboard
+5-  To add your own movie, modify the movie objects and the corresponding 
+    movie list (refer to docstrings)
+
+AUTHOR(S):
+
 Alan Van
 
-Acknowledgments
+ACKNOWLEDGEMENTS:
+
 fresh_tomatoes.py was built by Udacity Team
